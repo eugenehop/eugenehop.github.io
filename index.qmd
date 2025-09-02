@@ -1,11 +1,15 @@
 ---
-title: "eugenehop.github.io"
+title: "Eugene Hopkins"
+image: media/website_photo.jpg
+toc: false
+about:
+  template: broadside
+  image-shape: rectangle
+  links:
+    - text: Email
+      href: mlhopkins@g.ucla.edu
 ---
 
-This is a Quarto website.
+Hello! My name is Eugene (he/they). I'm a third-year PhD student in Ecology and Evolutionary Biology at UCLA. My current research concerns the evolution of competitor recognition and territoriality between bird species. I am also passionate about science communication and making scientific information accessible to a wide audience. Beyond my academic career, I am a huge nerd who loves dungeons & dragons, fantasy novels, anime, and video games. On my blog Otherworldly Ecologies, I write about how ecological principles, and biology more generally, show up in my favorite media.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Thanks for visiting! I'm so happy you're here :)
