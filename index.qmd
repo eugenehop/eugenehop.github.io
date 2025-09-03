@@ -10,6 +10,10 @@ about:
       href: mlhopkins@g.ucla.edu
 ---
 
-Hello! My name is Eugene (he/they). I'm a third-year PhD student in Ecology and Evolutionary Biology at UCLA. My current research concerns the evolution of competitor recognition and territoriality between bird species. I am also passionate about science communication and making scientific information accessible to a wide audience. Beyond my academic career, I am a huge nerd who loves dungeons & dragons, fantasy novels, anime, and video games. On my blog Otherworldly Ecologies, I write about how ecological principles, and biology more generally, show up in my favorite media.
+#### Website construction in progress
+
+Hello! My name is Eugene (he/they). I'm a third-year PhD student in Ecology and Evolutionary Biology at UCLA. My current research concerns the evolution of competitor recognition and territoriality between bird species. I am also passionate about science communication and making scientific information accessible to a wide audience. Beyond my academic career, I am a huge nerd who loves dungeons & dragons, fantasy novels, anime, and video games.
+
+I post two types of content on this site: under the "News" tab, you can find current information about my research, explainers of coding techniques I find useful, and updates about conferences I attend. For something a little more fun, I use my blog "Genre Ecologies" to break down ecological and biological principles using examples from my favorite media.
 
 Thanks for visiting! I'm so happy you're here :)

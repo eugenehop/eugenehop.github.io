@@ -2,8 +2,16 @@
 title: "About"
 ---
 
-About this site
+## Publications
 
-```{r}
-1 + 1
-```
+## Presentations
+
+\[Poster\] "Integrating neural networks and individual-based models to understand how the evolution of interspecific territoriality affects coexistence.” Hopkins, Eugene\* & Gregory F. Grether. Ecological Society of America, Long Beach, CA, July 2024.
+
+## Education
+
+PhD Student \| Ecology and Evolutionary Biology \| University of California, Los Angeles \| Fall 2023-Present
+
+B.S. in Quantitative Sciences (2nd Major: English & Creative Writing) \| Emory University \| Atlanta, GA, USA \| Fall 2019 - Spring 2023
+
+\*Published as "Madison Hopkins"
